@@ -16,7 +16,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
-
+#mene changes krk dekhe
 # Enhanced Card pattern regex
 CARD_PATTERN = r'(?:\d{16}|\d{4}[- ]\d{4}[- ]\d{4}[- ]\d{4}|\d{4}\s\d{4}\s\d{4}\s\d{4})'
 
